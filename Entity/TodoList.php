@@ -33,7 +33,6 @@ namespace Entitiy {
         }
 
         
-
         /**
          * This function sets the todo property to the value of the  parameter
          * 
