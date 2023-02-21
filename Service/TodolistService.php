@@ -13,7 +13,7 @@ namespace Service {
         /* A function that adds a todolist. */
         function addTodolist(string $todo): void;
 
-        /* Removing the todolist. */
+        /* A function that remove the todolist. */
         function removeTodolist(int $number): void;
     }
 
